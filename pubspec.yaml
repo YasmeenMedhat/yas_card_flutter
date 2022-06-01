@@ -29,7 +29,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - images/male.png
+    - images/firebase_logo.png
 
   fonts:
     - family: Pacifico
